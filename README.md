@@ -1,4 +1,4 @@
-# Calculate Moles of Gas in a Container
+# Calculate Moles of Gas in a Container Using the Ideal Gas Law
 
 ## Parameters
 
