@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+*.swp
+env
+
+main/test_calculate_moles_of_gas_in_container.py
+main/__pycache__.py
